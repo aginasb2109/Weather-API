@@ -9,10 +9,5 @@ This project is a simple Python-based Weather API that retrieves weather informa
 
 ## Prerequisites
 - Python 3.x
-- OpenWeatherMap API Key (sign up [here](https://openweathermap.org/api) to get a free API key)
+- OpenWeatherMap API Key
 
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-api.git
-   cd weather-api
